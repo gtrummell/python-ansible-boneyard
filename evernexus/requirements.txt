@@ -1,0 +1,3 @@
+evernote
+gkeepapi
+google-api-python-client

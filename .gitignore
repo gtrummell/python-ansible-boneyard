@@ -63,5 +63,12 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
+
+# Virtual Environments
+bin/
+include/
+lib/
+local/
+share/
